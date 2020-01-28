@@ -8,4 +8,4 @@ RUN ["npm", "i"]
 
 CMD ["npm", "run", "dev"]
 
-EXPOSE 3000
+EXPOSE 80
